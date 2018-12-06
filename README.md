@@ -1,2 +1,2 @@
 # homework2
-This is motherfucking README.
+https://habr.com/company/southbridge/blog/329262/
