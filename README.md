@@ -1,4 +1,5 @@
 # homework2
-[![Build Status](https://travis-ci.org/lexadler/homework2.svg?branch=master)](https://travis-ci.org/lexadler/homework2)
-This repo is based on the article below:
-https://habr.com/company/southbridge/blog/329262/
+[![[![Build Status](https://travis-ci.org/proreg92/homework2.svg?branch=master)](https://travis-ci.org/proreg92/homework2)
+
+Данный репозиторий является форком:
+https://github.com/lexadler/homework2/
